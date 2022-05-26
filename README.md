@@ -2,7 +2,7 @@
 Code samples to go along with the blog post on how to create an LD_PRELOAD backdoor hooking accept()
 
 ## Links to Tutorials
-Blog: TODO: Populate later when blog post is live.
+Blog: [LD_PRELOAD: Making a Backdoor by Hijacking accept()](https://www.secureideas.com/blog/ld_preload-making-a-backdoor-by-hijacking-accept)
 
 ## Overview
 This repo is used to provide some code samples to go along side a tutorial in the Secure Ideas blog. This code repo will provide you with the code for:
